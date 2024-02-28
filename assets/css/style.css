@@ -1,0 +1,9 @@
+.opac-svg {
+    opacity: 0.5; /* Adiciona opacidade padrão */
+    transition: opacity 0.3s ease; /* Adiciona uma transição suave */
+}
+
+/* Quando o mouse passa por cima, aumenta a opacidade */
+.opac-svg:hover {
+    opacity: 1;
+}

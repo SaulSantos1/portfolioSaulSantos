@@ -7,3 +7,7 @@
 .opac-svg:hover {
     opacity: 1;
 }
+
+.opac-svg:active {
+    opacity: 1;
+}
